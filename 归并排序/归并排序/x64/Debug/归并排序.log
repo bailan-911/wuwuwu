@@ -1,4 +1,0 @@
-﻿  sort.cpp
-D:\代码\归并排序\归并排序\sort.cpp(17,28): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
-D:\代码\归并排序\归并排序\sort.cpp(38,30): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-  归并排序.vcxproj -> D:\代码\归并排序\x64\Debug\归并排序.exe
